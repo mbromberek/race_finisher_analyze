@@ -1,0 +1,68 @@
+{
+  "2016":{
+    "date":"2016-06-18T12:00:00Z",
+    "uom":"Fahrenheit",
+    "temperature": 68,
+    "temperatureApparent": 67,
+    "temperatureDewPoint": 57,
+    "cloudCover": 22,
+    "windSpeed":7,
+    "precipitationAmount":0
+  },
+  "2017":{
+    "date":"2017-06-17T12:04:00Z",
+    "temperature": 72,
+    "temperatureApparent":78,
+    "temperatureDewPoint":69,
+    "cloudCover":51,
+    "windSpeed":4,
+    "precipitationAmount":0.09
+  },
+  "2018":{
+    "date":"2018-06-16T12:04:37Z",
+    "temperature": 75,
+    "temperatureApparent":80,
+    "temperatureDewPoint":70,
+    "cloudCover":1,
+    "windSpeed":7,
+    "precipitationAmount":0.00
+  },
+  "2019":{
+    "date":"2019-06-15T12:05:44Z",
+    "temperature": 64,
+    "temperatureApparent":63,
+    "temperatureDewPoint":60,
+    "cloudCover":85,
+    "windSpeed":11,
+    "precipitationAmount":0.00
+  },
+  "2021":{
+    "date":"2021-06-19T13:01:25Z",
+    "temperature": 73,
+    "temperatureApparent":76,
+    "temperatureDewPoint":71,
+    "cloudCover":28,
+    "windSpeed":12,
+    "precipitationAmount":0.03
+  },
+  "2022":{
+    "date":"2022-06-18T12:00:00Z",
+    "cloudCover": 0.0,
+    "humidity": 0.65,
+    "precipitationAmount": 0.0,
+    "temperature": 65.05,
+    "temperatureApparent": 64.4,
+    "temperatureDewPoint": 53.08,
+    "windSpeed": 8.68
+  },
+  "2023":{
+    "date":"2023-06-17T12:00:00Z",
+    "cloudCover": 0.02,
+    "precipitationAmount": 0.0,
+    "temperature": 57.36,
+    "temperatureApparent": 56.79,
+    "temperatureDewPoint": 52.95,
+    "humidity": 0.85,
+    "windSpeed": 1.45
+  }
+}
