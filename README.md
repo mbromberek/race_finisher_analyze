@@ -17,6 +17,8 @@ jupyter lab
 - Steamboat_Dist_analyze.ipynb - Analyze results of Steamboat race for 15K or 4 mile distance
 - Steamboat_all_analyze.ipynb - Analyze counts of Steamboat race for 15K and 4 mile distance
 
+Inside html_notebooks directory can view python code as webpages
+
 ## Export
 ### To HTML without showing python code
 ```
