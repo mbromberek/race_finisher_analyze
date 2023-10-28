@@ -26,7 +26,7 @@ jupyter nbconvert Steamboat_Dist_analyze.ipynb --no-input --to html
 ```
 ### To HTML using preprocessor to not include cells marked skip_report
 ```
-jupyter nbconvert Steamboat_Dist_analyze.ipynb --Exporter.preprocessors=\[\"preprocess.RemoveCellsWithNoTags\"\] --ClearOutputPreprocessor.enabled=False --no-input --to html
+jupyter nbconvert Steamboat_Dist_analyze.ipynb --Exporter.preprocessors=\[\"preprocess.RemoveCellsWithNoTags\"\] --ClearOutputPreprocessor.enabled=False --no-input --to html --output-dir /Users/mike/Downloads
 ```
 
 
